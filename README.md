@@ -1,1 +1,1 @@
-# Python-ohjelmointi-2
+# HTML JA CSS koulu juttuja
