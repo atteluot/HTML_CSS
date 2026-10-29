@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-image: url('tausta.png');     
+  background-color: #080e45;
+  background-image: url('../img/tausta.png');    
   background-size: cover;                
   background-repeat: no-repeat;
   color: white;
@@ -115,7 +116,7 @@ p {
 }
 .tiedot p {
   line-height: 1.6;
-  padding: 0.1;
+  padding: 0 28px;
   background-color: rgb(4, 35, 134);
   margin: 0 0 10px 0;
 }
@@ -138,6 +139,7 @@ p {
   display: block;
   width: 300px;
   height: 200px;
+  object-fit: contain;
 }
 p {
   padding: 0 28px;
